@@ -1,0 +1,2 @@
+0xWalletAddress1
+0xWalletAddress2
